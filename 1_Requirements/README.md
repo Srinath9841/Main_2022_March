@@ -82,13 +82,10 @@ Improves Math Skills
 Improves concentration
 
 
-  
 
 **WEAKNESS**:
 
 Works only with keyboard
-
-
 
 
 **OPPORTUNITIES**:
@@ -96,8 +93,6 @@ Works only with keyboard
 We can increase the number of rows and columns in the game if updated.
 
 Our game is portable , it can be used in both linux and windows. 
-
-
 
 
 
@@ -109,19 +104,15 @@ There are so many improvements with the latest technology but our game is fundam
 ## HIGH LEVEL REQUIREMENTS:
 
 .windows os
-
   
 
 .linux os
-
   
 
 .visual studio code
-
   
 
 .code runner
-
 
 
 .4GB RAM
@@ -131,13 +122,10 @@ There are so many improvements with the latest technology but our game is fundam
 .**PROCESSOR**: Min CORE 2 DUO
 
 
-
 .**STORAGE**:Min 5 Mb
 
 
-
 .**RAM**:Min 1 GB
-
 
 
 .Keyboard
