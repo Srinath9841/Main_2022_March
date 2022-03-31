@@ -104,6 +104,22 @@ There are so many improvements with the latest technology but our game is fundam
 
 .code runner
 
+
+
+.4GB RAM
+
 ## LOW LEVEL REQUIREMENTS:
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+.**PROCESSOR**: Min CORE 2 DUO
+
+
+
+.**STORAGE**:Min 5 Mb
+
+
+
+.**RAM**:Min 1 GB
+
+
+
+.Keyboard
