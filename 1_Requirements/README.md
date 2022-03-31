@@ -29,11 +29,13 @@ Easy to operate and understandable.
 
 It is the view part of the game
 
+
   
 
 **Decision**: It is used to check for the correct input by the players. If the input
 
 is wrong it again ask for a proper input
+
 
   
 
@@ -43,25 +45,31 @@ characters X or O, If found print the Winner by Player who
 
 choose did the last winning move
 
+
 ## 4W's and 1'H
 
 **Who**: Anyone can play this game. But it is very interesting for young kids.
+
 
   
 
 **What**: To increase Logical thinking of individual.
 
+
   
 
 **When**: This game can be played whenever you are feeling bored.
+
 
   
 
 **Where**: Our Game has to be played on PC/Laptop.
 
+
   
 
 **How**:    Our Game requires two players.Player1 puts "X" and Player2 puts"O" by choosing numbers from 1-9
+
 
 ## SWOT Analysis
 
@@ -73,20 +81,30 @@ Improves Math Skills
 
 Improves concentration
 
+
   
 
 **WEAKNESS**:
 
 Works only with keyboard
 
+
+
+
 **OPPORTUNITIES**:
 
 We can increase the number of rows and columns in the game if updated.
 
 Our game is portable , it can be used in both linux and windows. 
+
+
+
+
+
 **THREATS**:
 
 There are so many improvements with the latest technology but our game is fundamental.
+
 
 ## HIGH LEVEL REQUIREMENTS:
 
