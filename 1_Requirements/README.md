@@ -122,10 +122,10 @@ There are so many improvements with the latest technology but our game is fundam
 .**PROCESSOR**: Min CORE 2 DUO
 
 
-.**STORAGE**:Min 5 Mb
+.**STORAGE**: Min 5 Mb
 
 
-.**RAM**:Min 1 GB
+.**RAM**: Min 1 GB
 
 
 .Keyboard
