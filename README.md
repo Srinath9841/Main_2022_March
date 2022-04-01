@@ -13,3 +13,4 @@
 4.Watch your opponent and block them if they get 2 in a row
 
 5.Enjoy your game with the friend.
+
