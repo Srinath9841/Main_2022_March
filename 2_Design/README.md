@@ -5,3 +5,5 @@
 ![Build Status](https://cdn.discordapp.com/attachments/958715499812888627/959453557332017242/Class_Diagram.png)
 ## USECASE DIAGRAM ##
 ![Build Status](https://cdn.discordapp.com/attachments/958715499812888627/959474455736881252/UML.png)
+## STRUCTURED DIAGRAM ##
+![Build Status](https://media.geeksforgeeks.org/wp-content/uploads/TIC_TAC.jpg)
